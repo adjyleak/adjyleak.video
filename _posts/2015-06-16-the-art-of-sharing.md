@@ -9,10 +9,6 @@ permalink: >
 published: true
 post_date: 2015-06-16 00:20:44
 ---
-Computers and the Internet have provided us with tools to do virtually anything and I consider most of it art. To help you understand: I design and develop web sites and apps, produce livestreams, take pictures, write blogs, and promote disruptive peer-to-peer technologies.
-
-Much of this will be discussed at some length, in time. Also on this blog there will be announcements regarding events and happenings of all sorts. I’ll share my experiences and you’ll share yours and we’ll become friends who eventually meet and maybe share a hug. That’s what the Internet is best at, connecting people. It brings us together and helps us share experiences and ideas.
-
 Livestreaming (aka Webcasting) is a developing technology that has taken our sharing power to a new level, bringing a monumental shift to our ability to share the stage, the streets, and everywhere in between. I’m really excited about that whole process, how the tech is being used, and what’s presently under development.
 
 I’ve been producing livestream video for several years now and have broadcast many diverse events including the International Pole Championship in Singapore and the <a href="https://www.youtube.com/watch?v=21WcX57TFr8" target="_blank">San Francisco Bitcoin Meetup</a>. My short-term goal is to broadcast small local events that have global interest. Everything from music and theater performances to tech meetups and warehouse gatherings.
