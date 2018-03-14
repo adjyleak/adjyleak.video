@@ -21,4 +21,4 @@ On the Internet, all this sharing manifests as content. Whether the content is a
 
 We are the media!
 
-*Edited: 14 March 2018*
+<em>Edited: 14 March 2018</em>
