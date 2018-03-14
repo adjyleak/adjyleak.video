@@ -1,7 +1,7 @@
 ---
 ID: 60
 post_title: The Art of Sharing
-author: Adjy Leak
+author: AdjyLeak
 post_excerpt: ""
 layout: post
 permalink: >
@@ -11,7 +11,7 @@ post_date: 2015-06-16 00:20:44
 ---
 Livestreaming video is a developing technology that has taken our sharing power to a new level, bringing a monumental shift to our ability to share the stage, the streets, and everywhere in between. I’m really excited about that whole process, how the tech is being used and what’s presently under development.
 
-I’ve been producing livestream video for several years now and have broadcast many diverse events including the International Pole Championship in Singapore and the <a href="https://www.youtube.com/watch?v=21WcX57TFr8" target="_blank">San Francisco Bitcoin Meetup</a>. My short-term goal is to broadcast small local events that have global interest. Everything from music and theater performances to tech meetups and warehouse gatherings.
+I’ve been producing livestream video for several years now and have broadcast many diverse events including the International Pole Championship in Singapore and the <a href="https://www.youtube.com/watch?v=21WcX57TFr8" target="_blank">San Francisco Bitcoin Meetup</a>. My short-term goal is to livestream small local events that have global interest. Everything from music and theater performances to tech meetups and warehouse gatherings.
 
 Distributed peer-to-peer technologies like <a href="http://www.coindesk.com/information/" target="_blank">Bitcoin</a>, <a href="http://ipfs.io/" target="_blank">IPFS</a>, <a href="http://maidsafe.net/" target="_blank">MaidSafe</a>, and <a href="http://ethereum.org/" target="_blank">Ethereum</a> are changing the way the Internet operates, at a fundamental level. The advancements are obvious when you know where to look but there’s a social evolution happening simultaneously, spiraling out from the ideologies of decentralization into real world applications - people connecting through events like <a href="http://www.meetup.com/" target="_blank">meetups</a> and phenomena like <a href="http://www.rollingstone.com/music/videos/amanda-palmer-addresses-crowdfunding-criticism-in-ted-talk-20130302" target="_blank">crowdfunding</a>. We’re breaking communication barriers and making centralized systems irrelevant.
 
