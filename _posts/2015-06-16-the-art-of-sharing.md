@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2015-06-16 00:20:44
 ---
-Livestreaming (aka Webcasting) is a developing technology that has taken our sharing power to a new level, bringing a monumental shift to our ability to share the stage, the streets, and everywhere in between. I’m really excited about that whole process, how the tech is being used, and what’s presently under development.
+Livestreaming video is a developing technology that has taken our sharing power to a new level, bringing a monumental shift to our ability to share the stage, the streets, and everywhere in between. I’m really excited about that whole process, how the tech is being used, and what’s presently under development.
 
 I’ve been producing livestream video for several years now and have broadcast many diverse events including the International Pole Championship in Singapore and the <a href="https://www.youtube.com/watch?v=21WcX57TFr8" target="_blank">San Francisco Bitcoin Meetup</a>. My short-term goal is to broadcast small local events that have global interest. Everything from music and theater performances to tech meetups and warehouse gatherings.
 
