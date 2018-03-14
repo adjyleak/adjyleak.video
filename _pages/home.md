@@ -4,7 +4,7 @@ post_title: Media for everyone!
 author: onidsnave
 post_excerpt: ""
 layout: page
-permalink: https://adjyleak.video/
+permalink: http://adjyleak.video/home/
 published: true
 post_date: 2013-04-28 01:40:59
 ---
