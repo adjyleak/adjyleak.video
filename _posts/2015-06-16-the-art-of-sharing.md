@@ -20,3 +20,5 @@ There are drawbacks to some of the sharing tools and models that are presently p
 On the Internet, all this sharing manifests as content. Whether the content is a video, music, an app, a network protocol, or a <a href="https://defdist.org/" target="_blank">3D printable gun</a>, it can be created now with often minimal resources (perhaps a lot of effort) and sent out to the world with the click of a button. Well, it may take several clicks but you get the picture.
 
 We are the media!
+
+*Edited: 14 March 2018*
